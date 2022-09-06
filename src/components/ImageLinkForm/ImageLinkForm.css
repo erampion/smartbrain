@@ -1,0 +1,15 @@
+.form {
+  width: 700px;
+  /* background:
+    radial-gradient(circle at 0% 50%, rgba(96, 16, 48, 0) 9px, #613 10px, rgba(96, 16, 48, 0) 11px) 0px 10px,
+    radial-gradient(at 100% 100%,      rgba(96, 16, 48, 0) 9px, #613 10px, rgba(96, 16, 48, 0) 11px),
+    rgb(141, 175, 84);
+    background-size: 20px 20px; */
+
+    background:
+      linear-gradient(-135deg, rgb(114, 107, 81) 10%, transparent),
+      repeating-linear-gradient(45deg, rgb(105, 120, 86) 0%, rgba(140, 181, 158, 0.6) 5%, transparent 5%, transparent 10%),
+      repeating-linear-gradient(-45deg, rgba(87, 102, 28, 0.4) 0%, rgba(91, 151, 41, 0.5) 5%, transparent 5%, transparent 10%);
+    background-color: rgba(46, 135, 40, 0.227);  
+}
+
