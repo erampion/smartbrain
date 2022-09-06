@@ -3,7 +3,7 @@ import React from "react";
 const Navigation = () => {
   return (
     <nav className="pa3 fr">
-      <p className="ba br2 f3 link dim black pa2 pointer">Sing Out</p>
+      <p className="b br2 f3 link dim pa2 pointer shadow-2 underline">Sign Out</p>
     </nav>
   )
 }
